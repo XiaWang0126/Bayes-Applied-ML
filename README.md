@@ -21,20 +21,31 @@ year.
 Content in the remaining weeks will cover some of the key high level concepts
 applicable to many areas of machine learning and various models and types of
 machine learning. These include:
+
 • Loss functions
+
 • Generalisation error
+
 • Train, validation and test samples and the various types of validation
+
 • Bias and variance
+
 • Penalisation and regularisation
+
 • Feature scaling
+
 • Hyper-parameter tuning
 
 A significant amount of time is spend discussing regression and penalised regression.
 Overall, models and types of machine learning may include some of:
 
 • Trees, random forests, gradient boosting and ensembles
+
 • Penalised regression (ridge regression, the LASSO and elastic net) and
 Generalised Additive Models
+
 • Unsupervised learning including PCA
+
 • Neural networks and deep learning
+
 • Online learning (vowpal wabbit)
